@@ -1,0 +1,11 @@
+name: Blood
+main: me.DJBiokinetix.Blood
+version: 1.1
+author: DJBiokinetix
+description: Gives effect of blood to pvp battles!
+commands:
+   blood:
+    description: Reload the config files!
+permissions:
+    blood.reload:
+        default: op
